@@ -1,0 +1,6 @@
+opencv-python==4.8.1.78
+torch==2.1.0
+matplotlib==3.8.0
+ultralytics==8.0.203
+pandas==2.1.2
+requests==2.31.0
